@@ -1,0 +1,1 @@
+Hi, this project is just a training based on "WebDevSimplified" Youtube channel. 
